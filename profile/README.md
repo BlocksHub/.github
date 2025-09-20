@@ -1,3 +1,3 @@
 <div align="center">
-    <img src="https://github.com/BlocksHub/.github/raw/main/profile/assets/blocks_banner.png" alt="Blocks Banner"/>
+    <img src="https://raw.githubusercontent.com/BlocksHub/.github/refs/heads/main/profile/blocks_banner.png" alt="Blocks Banner"/>
 </p>
